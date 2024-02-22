@@ -1,0 +1,3 @@
+﻿  class Group Studentss.cpp
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(154,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  class Group Studentss.vcxproj -> D:\Проекты\class Group Studentss\x64\Debug\class Group Studentss.exe
